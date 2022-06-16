@@ -1,8 +1,8 @@
-# EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
+# EXPERIMENT-NO--03-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
 
 
 ## AIM: 
-To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
+To interface an FSR(force sensitive resistor) and measure the force applied. Indicate the change in force applied using LED's.
  
 ### COMPONENTS REQUIRED:
 1.	FSR  (force sensitive resistor)
@@ -160,4 +160,4 @@ void loop()
 
 
 ### RESULT :
- Arduino uno is interfaced with FSR and output values are indicated on a graph.
+Thus the interfacing using FSR(force sensitive resistor) is simulated in tinkerCAD.
